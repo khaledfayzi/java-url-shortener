@@ -1,0 +1,11 @@
+replicaCount: 1
+
+image:
+  repository: ghcr.io/khaledfayzi/java-url-shortener
+  tag: "1.0.0"
+  pullPolicy: IfNotPresent
+
+service:
+  type: ClusterIP
+  port: 80
+  targetPort: 8080
