@@ -4,7 +4,7 @@ Diese ist meine Lösung für die Java + DevOps Challenge.
 
 ## Part 1 - Java REST API
 
-## Part 2 Docker
+## Part 2 Docker (Dockerfile)
 
 ## Part 3 Kubernetes + Helm
 
